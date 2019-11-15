@@ -1,0 +1,4 @@
+1.android性能测试脚本优化
+excel中记录 cpu, fps,内存，温度，电量，wifi总流量，网速，当前页面
+2.android启动时间测试
+3.从excel中读取activity name获取响应信息
